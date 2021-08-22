@@ -1,0 +1,1 @@
+[INFO][21-08-23][club.jming.exec.Client]{retries=1, value.serializer=org.apache.kafka.common.serialization.StringSerializer, acks=-1, batch.size=16384, bootstrap.servers=192.168.160.133:9092, buffer.memory=33554432, key.serializer=org.apache.kafka.common.serialization.StringSerializer, linger.ms=1}
